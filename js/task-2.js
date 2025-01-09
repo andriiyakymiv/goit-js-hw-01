@@ -5,5 +5,3 @@ function getShippingMessage (country, price, deliveryFee) {
 console.log(getShippingMessage("Australia", 120, 50));
 console.log(getShippingMessage("Germany", 80, 20));
 console.log(getShippingMessage("Sweden", 100, 20));
-console.log(getShippingMessage("Ukraine", 0, 0));
-console.log(getShippingMessage("Poland", 50, 20));
